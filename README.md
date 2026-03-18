@@ -1,6 +1,6 @@
 # commons-codec
 
-[![Tests](https://github.com/crate/commons-codec/actions/workflows/tests.yml/badge.svg)](https://github.com/crate/commons-codec/actions/workflows/tests.yml)
+[![Tests](https://github.com/Unity-Billal-mesloub/commons-codec/actions/workflows/tests.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/commons-codec/actions/workflows/tests.yml)
 [![Coverage](https://codecov.io/gh/crate/commons-codec/branch/main/graph/badge.svg)](https://app.codecov.io/gh/crate/commons-codec)
 [![Build status (documentation)](https://readthedocs.org/projects/commons-codec/badge/)](https://commons-codec.readthedocs.io/)
 [![PyPI Version](https://img.shields.io/pypi/v/commons-codec.svg)](https://pypi.org/project/commons-codec/)
@@ -59,19 +59,3 @@ we appreciate contributions of any kind.
 The [Apache Commons Codec] library was the inspiration for the name. Otherwise,
 both libraries' ingredients don't have anything in common, yet.
 
-### License
-The project uses the LGPLv3 license for the whole ensemble. However, individual
-portions of the code base are vendored from other Python packages, where
-deviating licenses may apply. Please check for detailed license information
-within the header sections of relevant files.
-
-
-
-[Apache Commons Codec]: https://commons.apache.org/proper/commons-codec/
-[Change Data Capture (CDC)]: https://en.wikipedia.org/wiki/Change_data_capture
-[commons-codec]: https://pypi.org/project/commons-codec/
-[documentation]: https://commons-codec.readthedocs.io/
-[examples]: https://github.com/crate/commons-codec/tree/main/examples
-[managed on GitHub]: https://github.com/crate/commons-codec
-[PyPI]: https://pypi.org/
-[Tikray]: https://tikray.readthedocs.io/
