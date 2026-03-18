@@ -7,7 +7,6 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/commons-codec.svg)](https://pypi.org/project/commons-codec/)
 [![PyPI Downloads](https://pepy.tech/badge/commons-codec/month)](https://pepy.tech/project/commons-codec/)
 [![Status](https://img.shields.io/pypi/status/commons-codec.svg)](https://pypi.org/project/commons-codec/)
-[![License](https://img.shields.io/pypi/l/commons-codec.svg)](https://pypi.org/project/commons-codec/)
 
 ## About
 
